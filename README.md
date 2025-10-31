@@ -6,7 +6,8 @@
 ```
 .
 ├── quant/                       # Ouromamba-Quant
-└── data_gen/                    # Ouromamba-Gen
+├── data_gen/                    # Ouromamba-Gen
+└── system/                      # OuroMamba system design 
 ```
 ## Results
 
